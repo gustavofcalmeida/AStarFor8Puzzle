@@ -1,0 +1,1 @@
+java -cp bin br.edu.ufcg.ccc.ai.astar.Main > output.txt
